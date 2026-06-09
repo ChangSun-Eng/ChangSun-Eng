@@ -6,7 +6,6 @@
 - 📫 How to reach me: sun_chang@u.nus.edu
 - ✨ Also I will provide my codes for my previous work.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangSun-Eng&show_icons=true&theme=default)
 
 <!---
 sooncheer0420/sooncheer0420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
