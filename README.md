@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Chang Sun
+- 🎓 PhD student in Mechanical Engineering at NUS.
 - 👀 I’m interested in manufacturing and engineering design.
 - 🌱 I’m currently learning interpretable of AI and its application in engineering.
 - 💞️ I’m looking to research in XAI4SCI discovery
